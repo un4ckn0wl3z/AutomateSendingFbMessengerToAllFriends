@@ -62,11 +62,6 @@ class CheckingBox():
             print("left user > "+str(users))
 
 
-
-
-
-
-
 print("*"*50)
 
 print("AUTOMATE NEW YEAR SPAMMER by UN4 :) ")
@@ -78,31 +73,3 @@ print("*"*50)
 fox = CheckingBox()
 
 fox.AutomateFox()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
